@@ -12,5 +12,5 @@ Run the project in step by step procedure:
 
 7. Save the change in server IP in strings.xml. Make sure the main.py file in backend_server folder is running. Then you can run the project by clicking "Run app" button in android studio. (Recommend run in Pixel XL)
 
-Demo video link: [https://drive.google.com/file/d/1qPN57Ax8PxEm1iWXRhYqQ-YrKD9YL7zT/view?usp=sharing](url)
+Demo video link: [https://drive.google.com/file/d/1qPN57Ax8PxEm1iWXRhYqQ-YrKD9YL7zT/view?usp=sharing](https://drive.google.com/file/d/1qPN57Ax8PxEm1iWXRhYqQ-YrKD9YL7zT/view?usp=sharing)
 Project collaborator: Sin Chung Hang(Jeff), Tam Ngo Hin, Chiu Yu Cheung, Li Hoi Man Kevin
