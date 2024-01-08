@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="server_ip">http://192.168.1.79:5000</string>
+    <string name="encounter">/encounter/</string>
+    <string name="capture">/capture/</string>
+    <string name="check_bag">/check_bag/</string>
+    <string name="shop_buy">/shop_buy/</string>
+    <string name="login">/login/</string>
+    <string name="register">/register/</string>
+    <string name="market_list">/market_list/</string>
+    <string name="use_repel">/use_repel/</string>
+    <string name="get_market_list">/get_market_list</string>
+    <string name="add_bank_change_market">/add_bank_change_market/</string>
+    <string name="get_user_pokemon">/get_user_pokemon/</string>
+    <string name="get_bank">/get_bank/</string>
+    <string name="bank_to_currency">/bank_to_currency/</string>
+    <string name="get_currency">/get_currency/</string>
+</resources>

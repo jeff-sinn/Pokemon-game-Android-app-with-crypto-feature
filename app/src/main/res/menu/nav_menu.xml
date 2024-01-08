@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_encounter"
+            android:icon="@drawable/encounter"
+            android:title="Encounter" />
+        <item
+            android:id="@+id/nav_pc"
+            android:icon="@drawable/pokemon"
+            android:title="Pokemon"/>
+        <item
+            android:id="@+id/nav_bag"
+            android:icon="@drawable/bag"
+            android:tint="@color/blue"
+            android:title="Bag "/>
+        <item
+            android:id="@+id/nav_shop"
+            android:icon="@drawable/newshop"
+            android:title="Shop "/>
+        <item
+            android:id="@+id/nav_market"
+            android:icon="@drawable/global2x"
+            android:title="Market"
+
+            />
+        <item
+            android:id="@+id/nav_logout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/baseline_logout_24"
+            android:title="Logout" />
+    </group>
+
+</menu>
+
+<!-- change the menu item here!!-->
