@@ -1,6 +1,6 @@
 # COMP3330
 
-Run the project in step by step procedure::
+Run the project in step by step procedure:
 
 1. Open the backend_server folder in vscode first.
 2. When you have Python and PIP installed in your environment, run "py -m pip install flask" or "pip install flask" to install Flask required for /backend_server/main.py.
